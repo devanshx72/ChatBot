@@ -6,11 +6,6 @@ Chat Bot is an innovative project designed to leverage the Gemini API and LangCh
 
 - `app.py`: The main application file that runs the Chat Bot.
 - `requirements.txt`: A list of all the dependencies and libraries required to run the project.
-
-## LinkedIn Post
-
-For more information and updates, check out our LinkedIn post: [Chat Bot LinkedIn Post](https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222146013833093120-dEX3?utm_source=share&utm_medium=member_desktop)
-
 ## Installation
 
 To get started with the Chat Bot, follow these steps:
