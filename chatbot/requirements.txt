@@ -1,6 +1,7 @@
 streamlit
 langchain
 google.generativeai
+python-dotenv
 
 
 # pip install python-dotenv  
